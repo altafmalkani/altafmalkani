@@ -2,11 +2,11 @@
 it is my readme page
 
 <h1 align="center">I'm Altaf 👋</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Gen Ai developer from Pakistan</h3>
 
-- 🔭 I’m currently working on *Frontend*
+- 🔭 I’m currently working on *AI Projects *
 
-- 🌱 I’m currently learning *python and jawascript*
+- 🌱 I’m currently learning *Agentic AI*
 
 - 👯 I’m looking to collaborate on *Tecrix*
 
